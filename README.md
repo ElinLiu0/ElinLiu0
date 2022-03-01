@@ -16,7 +16,7 @@ Most Language That I Liked
 
 ![CUDA](https://img.shields.io/badge/HPC%20Computing%20With%20CUDA-green?logo=Nvidia&style=for-the-badge&label=CUDA&link=https://developer.nvidia.com/cuda-downloads)
 
-Most Editore That I Liked
+Most Editor That I Liked
 
 ![Jupyter](https://img.shields.io/badge/Python-check%20jupyter.org-orange?logo=Jupyter&style=for-the-badge&label=Jupyter&link=https://jupyter.org) ![VScode](https://img.shields.io/badge/VisualStudio%20Code-blue?logo=visualstudiocode&style=for-the-badge&label=VS%20Code&link=https://code.visualstudio.com/)
 
