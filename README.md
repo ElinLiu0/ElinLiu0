@@ -7,9 +7,10 @@ def Alive():
     print("Eating...")
     print("Coding...")
     print("Sleeping...")
+    print("Sound Track Mading...")
     print("And FF14!!!")
 ```
-
+<img src="https://wallpapercave.com/wp/wp10255306.jpg" width="800" width="500">
 Most Language That I Liked
 
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-check%20python.org-yellow?logo=python&style=for-the-badge&label=Python&link=https://python.org"></a> 
