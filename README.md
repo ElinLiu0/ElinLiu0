@@ -10,6 +10,8 @@ def Alive():
     print("Sound Track Mading...")
     print("And FF14!!!")
 ```
+Typically,i am huge fans on HPC(Otherwise High Performance Computing) and i am also a "N(Nvidia)-Fans".  
+I love CUDA and Python,also i will learn DeepLearning,OpenCV and C++ in Future if i were not laz too much lol.
 <a href="https://ff.web.sdo.com/web8/index.html#/index"><img src="https://wallpapercave.com/wp/wp10255306.jpg" width="1050" width="500"></a>
 Most Language That I Liked
 
