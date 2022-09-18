@@ -16,9 +16,9 @@ I love CUDA and Python,also i will learn DeepLearning,OpenCV and C++ in Future i
 Most Language That I Liked
 
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-check%20python.org-yellow?logo=python&style=for-the-badge&label=Python&link=https://python.org"></a> 
-<a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/Python-check%20dotnet.microsoft.com-purple?logo=csharp&style=for-the-badge&label=CSharp&link=https://dotnet.microsoft.com/en-us/"></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/Python-check%20gcc.gnu.org-red?logo=c&style=for-the-badge&label=CSharp&link=https://dotnet.microsoft.com/en-us/"></a>
 
-<a href="https://developer.nvidia.com/cuda-downloads"><img src="https://img.shields.io/badge/HPC%20Computing%20With%20CUDA-green?logo=Nvidia&style=for-the-badge&label=CUDA&link=https://developer.nvidia.com/cuda-downloads"></a>
+<a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/HPC%20Computing%20With%20CUDA-green?logo=Nvidia&style=for-the-badge&label=CUDA&link=https://developer.nvidia.com/cuda-downloads"></a>
 
 Most Editor That I Liked
 
