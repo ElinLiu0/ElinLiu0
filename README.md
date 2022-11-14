@@ -28,7 +28,3 @@ Most Editor That I Liked
 
 ![RosterMouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosterMouch&show_icons=true)
 
-<img src="https://wakatime.com/share/@Elin/0fffea1c-32bb-465b-ba34-a0f0e789fa7e.svg" width="600" height="350" style="BORDER:5px black;BORDER-RADIUS:10px">
-<img src="https://wakatime.com/share/@Elin/5e06195d-b45d-43fd-abf2-2dcca8e52689.svg" width="600" height="350" style="border:5px black;border-radius:10px">  
-<img src="https://wakatime.com/share/@Elin/718a8b0c-2f19-4931-b15a-bc650261e803.svg" width="600" height="350" style="border:5px black;border-radius:10px">  
-<img src="https://wakatime.com/share/@Elin/d1978bd4-b70d-4fb1-8a73-c87b1b6ac518.svg" width="600" height="350" style="border:5px black;border-radius:10px">
