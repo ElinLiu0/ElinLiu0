@@ -8,43 +8,23 @@
 
 ### Education
 
-2019.09-2022.06     [ShenYang Northern Software and Information Technology College](https://www.baidu.com/link?url=z6QKwCjqmJ_yTS1Emcg0lYbIau3DRHga4oHjzrW3OmJ3JjzomKjNJ4uvSSa5JrY3&wd=&eqid=a798b431000619ce00000002641d3665)
+- 2019.09-2022.06     [ShenYang Northern Software and Information Technology College](https://www.baidu.com/link?url=z6QKwCjqmJ_yTS1Emcg0lYbIau3DRHga4oHjzrW3OmJ3JjzomKjNJ4uvSSa5JrY3&wd=&eqid=a798b431000619ce00000002641d3665)  Major: Applyment of BigData Technologies
 
-                                   Major: Applyment of BigData Technologies
-
-2022.09-2023.06     [ShenYang University](https://www.baidu.com/link?url=KdmF9QJdkfCuMk3dO8GhwX1l0wA4YQH_9rJvoewijfTJFN1HibC5rQY6zPIzvTzj&wd=&eqid=a23f6ea90017aabd00000002641d3685) 
-
-                                   Major: Applyment of Computer Since
+- 2022.09-2023.06     [ShenYang University](https://www.baidu.com/link?url=KdmF9QJdkfCuMk3dO8GhwX1l0wA4YQH_9rJvoewijfTJFN1HibC5rQY6zPIzvTzj&wd=&eqid=a23f6ea90017aabd00000002641d3685)  Major: Applyment of Computer Since
 
 ### Project Experience
 
-2021.06-2021.08     Developing OJ Platform Backend with :`Django`,`MySQL`and`Ubuntu                                    Linux.Also developed a useable Server Mointoring framework with
+- 2021.06-2021.08     Developing OJ Platform Backend with :`Django`,`MySQL`and`Ubuntu Linux`.Also developed a useable Server Mointoring framework with
+  
+  Python `pustil` package for monitoring and `streamlit` package for Web Interface.Which link [here.](https://github.com/RosterMouch/Elins-Python-Server-Monitor)
 
-                                   Python `pustil` package for monitoring and `streamlit` package 
+- 2022.01-2022.05     Developing [EqualDB](https://github.com/RosterMouch/EQual-DB) for graduation project,the goal purpose of this  project which wanted bring GPU acceleration into non-sql squence quering and others operation.(This project currently not production ready yet,need to be revision!)
 
-                                   for Web Interface.Which link [here.](https://github.com/RosterMouch/Elins-Python-Server-Monitor)
+- 2022.06-2022.08     Developing OJ Platform Intergreted Cloud IDE with:`Ubuntu Linux`, `Jupyter Server`,`code-server`,`Docker`.
 
-2022.01-2022.05     Developing [EqualDB](https://github.com/RosterMouch/EQual-DB) for graduation project,the goal purpose of this
+- 2023.01-Now           Developing a `deployable`,`accelerateable`cv apps which tracking Students status on Webnair courses.Based on `Yolov8` ,`Tauri(Vanilia Only)`,`FastAPI`,`NVIDIA Triton Server` and  Animation Detection.This project is a researching project that now still developing and 
 
-                                   project which wanted bring GPU acceleration into non-sql squence
-
-                                   quering and others operation.(This project currently not production
-
-                                   ready yet,need to be revision!)
-
-2022.06-2022.08     Developing OJ Platform Intergreted Cloud IDE with:`Ubuntu Linux`,
-
-                                   `Jupyter Server`,`code-server`,`Docker`.
-
-2023.01-Now           Developing a `deployable`,`accelerateable`cv apps which tracking
-
-                                   Students status on Webnair courses.Based on `Yolov8`
-
-                                   ,`Tauri(Vanilia Only)`,`FastAPI`,`NVIDIA Triton Server` and                                    Animation Detection.
-
-                                   This project is a researching project that now still developing and 
-
-                                   preparing for a cometition,not production ready.
+preparing for a cometition,not production ready.
 
 ### Awards and Certifications
 
