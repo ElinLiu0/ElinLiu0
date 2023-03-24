@@ -14,7 +14,7 @@
 
 ### Project Experience
 
-- 2021.06-2021.08     Developing OJ Platform Backend with :`Django`,`MySQL`and`Ubuntu Linux`.Also developed a useable Server Mointoring framework with
+- 2021.06-2021.08     Developing OJ Platform Backend with :`Python`,`MySQL`and`Ubuntu Linux`.Also developed a useable Server Mointoring framework with
   
   Python `pustil` package for monitoring and `streamlit` package for Web Interface.Which link [here.](https://github.com/RosterMouch/Elins-Python-Server-Monitor)
 
