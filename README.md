@@ -1,30 +1,83 @@
-### I mean...Do you Really Wanna check this Noob`s Page?
+### Name:YiLin Liu           Age:22
 
-# You Do!!!!😂
+### Now Live:ShenYang City,LiaoNing Province,PRC
 
-```python
-def Alive():
-    print("Eating...")
-    print("Coding...")
-    print("Sleeping...")
-    print("Sound Track Mading...")
-    print("And FF14!!!")
-```
-Typically,i am huge fans on HPC(Otherwise High Performance Computing) and i am also a "N(Nvidia)-Fans".  
-I love CUDA and Python,also i will learn DeepLearning,OpenCV and C++ in Future if i were not laz too much lol.
-<a href="https://ff.web.sdo.com/web8/index.html#/index"><img src="https://wallpapercave.com/wp/wp10255306.jpg" width="1050" width="500"></a>
-Most Language That I Liked
+### Job Intension:Senior AI Assitant,Senior DataSince Assistant
 
-<a href="https://python.org"><img src="https://img.shields.io/badge/Python-check%20python.org-yellow?logo=python&style=for-the-badge&label=Python&link=https://python.org"></a> 
-<a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/Python-check%20gcc.gnu.org-red?logo=c&style=for-the-badge&label=C&link=https://gcc.gnu.org/"></a>
+---
 
-<a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/HPC%20Computing%20With%20CUDA-green?logo=Nvidia&style=for-the-badge&label=CUDA&link=https://developer.nvidia.com/cuda-downloads"></a>
+### Education
 
-Most Editor That I Liked
+2019.09-2022.06     [ShenYang Northern Software and Information Technology College](https://www.baidu.com/link?url=z6QKwCjqmJ_yTS1Emcg0lYbIau3DRHga4oHjzrW3OmJ3JjzomKjNJ4uvSSa5JrY3&wd=&eqid=a798b431000619ce00000002641d3665)
 
-<a href="https://jupyter.org"><img src="https://img.shields.io/badge/Python-check%20jupyter.org-orange?logo=Jupyter&style=for-the-badge&label=Jupyter&link=https://jupyter.org"></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VisualStudio%20Code-blue?logo=visualstudiocode&style=for-the-badge&label=VS%20Code&link=https://code.visualstudio.com/"></a>
-<a href="https://visualstudio.microsoft.com/zh-hans/"><img src="https://img.shields.io/badge/VisualStudio-purple?logo=visualstudio&style=for-the-badge&label=VisualStudio&link=https://visualstudio.microsoft.com/zh-hans/"></a>
+                                   Major: Applyment of BigData Technologies
 
-![RosterMouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosterMouch&show_icons=true)
+2022.09-2023.06     [ShenYang University](https://www.baidu.com/link?url=KdmF9QJdkfCuMk3dO8GhwX1l0wA4YQH_9rJvoewijfTJFN1HibC5rQY6zPIzvTzj&wd=&eqid=a23f6ea90017aabd00000002641d3685) 
+
+                                   Major: Applyment of Computer Since
+
+### Project Experience
+
+2021.06-2021.08     Developing OJ Platform Backend with :`Django`,`MySQL`and`Ubuntu                                    Linux.Also developed a useable Server Mointoring framework with
+
+                                   Python `pustil` package for monitoring and `streamlit` package 
+
+                                   for Web Interface.Which link [here.](https://github.com/RosterMouch/Elins-Python-Server-Monitor)
+
+2022.01-2022.05     Developing [EqualDB](https://github.com/RosterMouch/EQual-DB) for graduation project,the goal purpose of this
+
+                                   project which wanted bring GPU acceleration into non-sql squence
+
+                                   quering and others operation.(This project currently not production
+
+                                   ready yet,need to be revision!)
+
+2022.06-2022.08     Developing OJ Platform Intergreted Cloud IDE with:`Ubuntu Linux`,
+
+                                   `Jupyter Server`,`code-server`,`Docker`.
+
+2023.01-Now           Developing a `deployable`,`accelerateable`cv apps which tracking
+
+                                   Students status on Webnair courses.Based on `Yolov8`
+
+                                   ,`Tauri(Vanilia Only)`,`FastAPI`,`NVIDIA Triton Server` and                                    Animation Detection.
+
+                                   This project is a researching project that now still developing and 
+
+                                   preparing for a cometition,not production ready.
+
+### Awards and Certifications
+
+- 2021.6    Reach team 2nd of `Datathon` Data Analyze Compition hold by College.
+
+- 2021.11  Certificated with Microsoft `MTA` Series:Introduction to Programming using Python,
+
+- 2022.7-2022.8 Eerned NVIDIA `DLI(Deep Learning Institute)` Series certifications,include:`DataSince`,`DeepLearning`.
+
+### Capabilities
+
+- Able to develop frontend Web applications with `SvelteJS` framework,and backend with `Fastapi` and `Flask`,database with `MySQL` and `MongoDB`.
+
+- Able to analyze datasets from stream with GPU accelerate platform on `NVIDIA RAPIDS`.
+
+- Able to training,deploy AI model and applications with GPU accelerate framework and SDKs such:`TensorRT`,`cuDNN` and `NVIDIA Triton Inference Server`.
+
+- Rapidly deploy edge CV tasks with Python and `Yolo` framework.
+
+- Able to develop Windows Platform Applications with `C#`.
+
+- Able to manage Linux systems and deploy on Virtualization platform such `VMWare EXSI(vSphere&vCenter)`.
+
+### Self Introduction
+
+- Individually thinking.
+
+- Stress on the portability,performance and user experience of solutions.
+
+- Stress on the acceleratbility of current solutions.
+
+- Favor on chating with team mates and enjoy working,be willing to share new techlogies stacks and ideas with others.
+
+- Courageable to trying new technologies on current solution. 
+
 
