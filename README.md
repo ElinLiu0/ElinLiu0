@@ -2,7 +2,7 @@
 
 ### Now Live:ShenYang City,LiaoNing Province,PRC
 
-### Job Intension:Senior AI Assitant,Senior DataSince Assistant
+### Job Intension:Senior AI Assitant,Senior DataSince Assistant,Senior WebDevelopment Engineer
 
 ---
 
