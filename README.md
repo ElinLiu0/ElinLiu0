@@ -30,10 +30,10 @@
 <div><a href="https://www.nsi-soft.com/nsi/index"><img src="https://www.nsi-soft.com/nsi/images/theme1.2/logo.png"></a></div>
 <br>
 <h3>My Github Stats:</h3>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elinliu0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="elinliu0" /><div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elinliu0&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=FF000000&hide_border=true" alt="elinliu0" /><div>
 <br>
-<div><img src="https://github-readme-stats.vercel.app/api?username=elinliu0&show_icons=true&locale=en&theme=tokyonight" alt="elinliu0" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=elinliu0&show_icons=true&locale=en&theme=tokyonight&bg_color=FF000000&hide_border=true" alt="elinliu0" /></div>
 <br>
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=elinliu0&theme=tokyonight" alt="elinliu0" /></div>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=elinliu0&theme=tokyonight&bg_color=FF000000&hide_border=true" alt="elinliu0" /></div>
 <br>
 <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=ElinLiu0&bg_color=FF000000&hide_border=true"></div>
