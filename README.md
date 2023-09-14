@@ -1,9 +1,9 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=sprintf(%22Hi%20there:is%20Elin%22);&center=true&size=27"></div>
 <hr height="5">
 <h3 align="center">An nut who favor on AI Machine Learning and EDM Music</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elinliu0&label=Profile%20views&color=0e75b6&style=flat" alt="elinliu0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elinliu0&label=Profile%20views&color=0e75b6&style=flat" alt="elinliu0" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=elinliu0&theme=gruvbox&no-bg=true" alt="elinliu0" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=elinliu0&theme=gruvbox&no-bg=true&hide_border=tru" alt="elinliu0" /></a> </p>
 
 - 🌱 I’m currently learning **Transformers&Diffusion Model**
 
