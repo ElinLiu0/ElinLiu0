@@ -3,7 +3,7 @@
 <h3 align="center">An nut who favor on AI Machine Learning and EDM Music</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elinliu0&label=Profile%20views&color=0e75b6&style=flat" alt="elinliu0" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=elinliu0&theme=gruvbox&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=elinliu0" alt="elinliu0" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=elinliu0&theme=gruvbox&no-bg=true" alt="elinliu0" /></a> </p>
 
 - 🌱 I’m currently learning **Transformers&Diffusion Model**
 
