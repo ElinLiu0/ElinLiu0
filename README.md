@@ -1,5 +1,5 @@
 <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=sprintf(%22Hi%20there:is%20Elin%22);&center=true&size=27">
-<hr width="5">
+<hr height="5">
 <h3 align="center">An nut who favor on AI Machine Learning and EDM Music</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elinliu0&label=Profile%20views&color=0e75b6&style=flat" alt="elinliu0" /> </p>
 
