@@ -1,4 +1,4 @@
-<h1 align="center">Hey there This is Elin✋</h1>
+<img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=sprintf(%22Hi%20there:is%20Elin%22);&center=true&size=27">
 <h3 align="center">An nut who favor on AI Machine Learning and EDM Music</h3>
 <img src="https://i0.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png@2560w_400h_100q_1o.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elinliu0&label=Profile%20views&color=0e75b6&style=flat" alt="elinliu0" /> </p>
