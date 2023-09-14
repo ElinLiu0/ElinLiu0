@@ -1,63 +1,28 @@
-### Name:YiLin Liu           Age:22
+<h1 align="center">Hey there This is Elin</h1>
+<h3 align="center">An nut who favor on AI Machine Learning and EDM Music</h3>
 
-### Now Live:ShenYang City,LiaoNing Province,PRC
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elinliu0&label=Profile%20views&color=0e75b6&style=flat" alt="elinliu0" /> </p>
 
-### Job Intension:Senior AI Assitant,Senior DataSince Assistant,Senior WebDevelopment Engineer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elinliu0" alt="elinliu0" /></a> </p>
 
----
+- 🌱 I’m currently learning **Transformers&Diffusion Model**
 
-### Education
+- 📝 My Blogs [https://blog.csdn.net/Deaohst](https://blog.csdn.net/Deaohst)
 
-- 2019.09-2022.06     [ShenYang Northern Software and Information Technology College](https://www.baidu.com/link?url=z6QKwCjqmJ_yTS1Emcg0lYbIau3DRHga4oHjzrW3OmJ3JjzomKjNJ4uvSSa5JrY3&wd=&eqid=a798b431000619ce00000002641d3665)  Major: Applyment of BigData Technologies
+- 💬 Ask me about **Python,CUDA,DL....Any more**
 
-- 2022.09-2023.06     [ShenYang University](https://www.baidu.com/link?url=KdmF9QJdkfCuMk3dO8GhwX1l0wA4YQH_9rJvoewijfTJFN1HibC5rQY6zPIzvTzj&wd=&eqid=a23f6ea90017aabd00000002641d3685)  Major: Applyment of Computer Since
+- 📫 Mail Box here **elinliu0823@gmail.com**
 
-### Project Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/柳轶霖" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="柳轶霖" height="30" width="40" /></a>
+</p>
 
-- 2021.06-2021.08     Developing OJ Platform Backend with :`Python`,`MySQL`and`Ubuntu Linux`.Also developed a useable Server Mointoring framework with
-  
-  Python `pustil` package for monitoring and `streamlit` package for Web Interface.Which link [here.](https://github.com/RosterMouch/Elins-Python-Server-Monitor)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 2022.01-2022.05     Developing [EqualDB](https://github.com/RosterMouch/EQual-DB) for graduation project,the goal purpose of this  project which wanted bring GPU acceleration into non-sql squence quering and others operation.(This project currently not production ready yet,need to be revision!)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elinliu0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="elinliu0" /></p>
 
-- 2022.06-2022.08     Developing OJ Platform Intergreted Cloud IDE with:`Ubuntu Linux`, `Jupyter Server`,`code-server`,`Docker`.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elinliu0&show_icons=true&locale=en&theme=tokyonight" alt="elinliu0" /></p>
 
-- 2023.01-Now           Developing a `deployable`,`accelerateable`cv apps which tracking Students status on Webnair courses.Based on `Yolov8` ,`Tauri(Vanilia Only)`,`FastAPI`,`NVIDIA Triton Server` and  Animation Detection.This project is a researching project that now still developing and 
-
-preparing for a cometition,not production ready.
-
-### Awards and Certifications
-
-- 2021.6    Reach team 2nd of `Datathon` Data Analyze Compition hold by College.
-
-- 2021.11  Certificated with Microsoft `MTA` Series:Introduction to Programming using Python,
-
-- 2022.7-2022.8 Eerned NVIDIA `DLI(Deep Learning Institute)` Series certifications,include:`DataSince`,`DeepLearning`.
-
-### Capabilities
-
-- Able to develop frontend Web applications with `SvelteJS` framework,and backend with `Fastapi` and `Flask`,database with `MySQL` and `MongoDB`.
-
-- Able to analyze datasets from stream with GPU accelerate platform on `NVIDIA RAPIDS`.
-
-- Able to training,deploy AI model and applications with GPU accelerate framework and SDKs such:`TensorRT`,`cuDNN` and `NVIDIA Triton Inference Server`.
-
-- Rapidly deploy edge CV tasks with Python and `Yolo` framework.
-
-- Able to develop Windows Platform Applications with `C#`.
-
-- Able to manage Linux systems and deploy on Virtualization platform such `VMWare EXSI(vSphere&vCenter)`.
-
-### Self Introduction
-
-- Individually thinking.
-
-- Stress on the portability,performance and user experience of solutions.
-
-- Stress on the acceleratbility of current solutions.
-
-- Favor on chating with team mates and enjoy working,be willing to share new techlogies stacks and ideas with others.
-
-- Courageable to trying new technologies on current solution. 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elinliu0&theme=tokyonight" alt="elinliu0" /></p>
