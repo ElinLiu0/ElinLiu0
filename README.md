@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Elin Liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="柳轶霖" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elin-liu-a8968522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elin Liu" height="30" width="40" /></a>
   <a href="https://space.bilibili.com/107674435"><img align="center" src="https://s1.hdslb.com/bfs/static/jinkela/space/asserts/icon-auth.png" width="120" height="80" ></a>
 
 </p>
