@@ -1,4 +1,4 @@
-![image](https://github.com/ElinLiu0/ElinLiu0/assets/75596885/da289bff-2f4f-492a-8a2f-c3f24ff2fa37)<div align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=sprintf(%22Hi%20there:is%20Elin%22);&center=true&size=27"></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=sprintf(%22Hi%20there:is%20Elin%22);&center=true&size=27"></div>
 <hr height="5">
 <h3 align="center">An nut who favor on AI Machine Learning and EDM Music</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elinliu0&label=Profile%20views&color=0e75b6&style=flat" alt="elinliu0" /> </p>
