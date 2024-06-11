@@ -29,6 +29,11 @@
 <br>
 <div><a href="https://www.nsi-soft.com/nsi/index"><img src="https://www.nsi-soft.com/nsi/images/theme1.2/logo.png"></a></div>
 <br>
+
+<h3 align="left">My Working Experience:</h3>
+<br>
+<p>Consultant Assistant intern at Capgemini,2024.05.17 - Till now</p>
+  
 <h3>My Github Stats:</h3>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elinliu0&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=FF000000&hide_border=true" alt="elinliu0" /><div>
 <br>
