@@ -39,11 +39,8 @@
 
 - Consultant Assistant intern at Capgemini,2024.05.17 - Till now</p>
   
-<h3>My Github Stats:</h3>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elinliu0&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=FF000000&hide_border=true" alt="elinliu0" /><div>
-<br>
-<div><img src="https://github-readme-stats.vercel.app/api?username=elinliu0&show_icons=true&locale=en&theme=tokyonight&bg_color=FF000000&hide_border=true" alt="elinliu0" /></div>
-<br>
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=elinliu0&theme=tokyonight&bg_color=FF000000&hide_border=true" alt="elinliu0" /></div>
-<br>
-<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=ElinLiu0&bg_color=FF000000&hide_border=true"></div>
+<h3>My Coding Status</h3>
+<figure><embed src="https://wakatime.com/share/@Elin/10f76561-193e-4a61-a3bd-0920cf77784f.svg"></embed></figure>
+
+<h3>Language Prefer</h3>
+<figure><embed src="https://wakatime.com/share/@Elin/e5d1fb48-d1fd-4fbe-8197-6e2c2bc31d91.svg"></embed></figure>
