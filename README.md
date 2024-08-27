@@ -40,7 +40,7 @@
 - Consultant Assistant intern at Capgemini,2024.05.17 - Till now</p>
   
 <h3>My Coding Status</h3>
-<figure><embed src="https://wakatime.com/share/@Elin/10f76561-193e-4a61-a3bd-0920cf77784f.svg"></embed></figure>
+<img src="https://wakatime.com/share/@Elin/10f76561-193e-4a61-a3bd-0920cf77784f.svg"></img>
 
 <h3>Language Prefer</h3>
-<figure><embed src="https://wakatime.com/share/@Elin/e5d1fb48-d1fd-4fbe-8197-6e2c2bc31d91.svg"></embed></figure>
+<img src="https://wakatime.com/share/@Elin/e5d1fb48-d1fd-4fbe-8197-6e2c2bc31d91.svg"></img>
